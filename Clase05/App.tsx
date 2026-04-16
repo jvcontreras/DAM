@@ -4,7 +4,7 @@
  *
  * @format
  */
-import CountScreen from './src/components/CountScreen/CountScreen';
+import CountScreen from './src/components/Screens/CountScreen';
 import React from 'react';
 import { NewAppScreen } from '@react-native/new-app-screen';
 import { StatusBar, StyleSheet, useColorScheme, View } from 'react-native';
